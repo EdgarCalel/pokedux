@@ -12,12 +12,13 @@ export default function SearchBar() {
           mobile={16}
           className='Searcher'
         >
-          <Search
+          
+          {/* <Search
             aligned='right'
             input={{ fluid: true }}
             showNoResults={false}
             placeholder='Encuentra a tu Pokemón favorito'
-          />
+          /> */}
         </Grid.Column>
       </Grid>
     </div>
